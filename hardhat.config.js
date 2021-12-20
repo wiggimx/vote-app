@@ -11,7 +11,7 @@ module.exports = {
   networks: {
     ropsten: {
       url:endpoint,
-      accounts:[projectId]
+      accounts:[account]
     }
   }
 };
